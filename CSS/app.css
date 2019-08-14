@@ -16,6 +16,9 @@
 .yellow {
   color: yellow; }
 
+.maroon {
+  color: #cf0000; }
+
 .bg-red {
   color: red; }
 
@@ -35,16 +38,16 @@
   color: yellow; }
 
 .mgl {
-  margin-left: 1rem; }
+  margin-left: 3rem; }
 
 .mgr {
-  margin-right: 1rem; }
+  margin-right: 3rem; }
 
 .mgt {
-  margin-bottom: 1rem; }
+  margin-top: 3rem; }
 
 .mgb {
-  margin-bottom: 1rem; }
+  margin-bottom: 3rem; }
 
 .family-roboto {
   font-family: "Roboto Condensed", sans-serif; }
@@ -151,6 +154,16 @@ article {
 
 .align-center {
   align-items: center; }
+
+.main-para {
+  text-align: center;
+  position: relative;
+  top: 20%;
+  left: 20%;
+  font-weight: bold;
+  opacity: 1;
+  font-size: 2.5rem;
+  width: 50%; }
 
 @media only screen and (min-width: 768px) {
   .navtoggle-label span {
