@@ -1,36 +1,12 @@
-@media only screen and (max-width:768px){
-    .navtoggle-label {
-        span{
-            font-size: 2rem;
-            display:none;
-            
-        }
-    }
-    .navlogo{
-        
-    }
+@media only screen  and (min-width:768px)
+{
     .navbar{
-        grid-auto-flow: column;
-    }
-    .navlinks{
-        grid-auto-flow:column;
-    }
-  
-@for $i from 1 through $columns{
-    .c-l-#{$i}{
-        flex:0 0 100%/$columns*$i;
+        display:none;
     }
 }
-}
-
-@media only screen and (max-width:480px){
-   
-   .logo{
-       
-   }
-@for $i from 1 through $columns{
-    .c-l-#{$i}{
-        flex:0 0 100%/$columns*$i;
+@media only screen  and (min-width:480px)
+{
+    .navbar{
+        display:none;
     }
-}
 }

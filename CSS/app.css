@@ -76,6 +76,9 @@
 .border {
   border: 0.1rem solid black; }
 
+.ld-none {
+  display: none; }
+
 html {
   margin: 0;
   padding: 0;
@@ -165,96 +168,22 @@ article {
   font-size: 2.5rem;
   width: 50%; }
 
-@media only screen and (max-width: 768px) {
-  .navtoggle-label span {
-    font-size: 2rem;
-    display: none; }
-
+@media only screen and (min-width: 768px) {
   .navbar {
-    grid-auto-flow: column; }
-
-  .navlinks {
-    grid-auto-flow: column; }
-
-  .c-l-1 {
-    flex: 0 0 8.3333333333%; }
-
-  .c-l-2 {
-    flex: 0 0 16.6666666667%; }
-
-  .c-l-3 {
-    flex: 0 0 25%; }
-
-  .c-l-4 {
-    flex: 0 0 33.3333333333%; }
-
-  .c-l-5 {
-    flex: 0 0 41.6666666667%; }
-
-  .c-l-6 {
-    flex: 0 0 50%; }
-
-  .c-l-7 {
-    flex: 0 0 58.3333333333%; }
-
-  .c-l-8 {
-    flex: 0 0 66.6666666667%; }
-
-  .c-l-9 {
-    flex: 0 0 75%; }
-
-  .c-l-10 {
-    flex: 0 0 83.3333333333%; }
-
-  .c-l-11 {
-    flex: 0 0 91.6666666667%; }
-
-  .c-l-12 {
-    flex: 0 0 100%; } }
-@media only screen and (max-width: 480px) {
-  .c-l-1 {
-    flex: 0 0 8.3333333333%; }
-
-  .c-l-2 {
-    flex: 0 0 16.6666666667%; }
-
-  .c-l-3 {
-    flex: 0 0 25%; }
-
-  .c-l-4 {
-    flex: 0 0 33.3333333333%; }
-
-  .c-l-5 {
-    flex: 0 0 41.6666666667%; }
-
-  .c-l-6 {
-    flex: 0 0 50%; }
-
-  .c-l-7 {
-    flex: 0 0 58.3333333333%; }
-
-  .c-l-8 {
-    flex: 0 0 66.6666666667%; }
-
-  .c-l-9 {
-    flex: 0 0 75%; }
-
-  .c-l-10 {
-    flex: 0 0 83.3333333333%; }
-
-  .c-l-11 {
-    flex: 0 0 91.6666666667%; }
-
-  .c-l-12 {
-    flex: 0 0 100%; } }
+    display: none; } }
+@media only screen and (min-width: 480px) {
+  .navbar {
+    display: none; } }
 .foot {
   display: flex;
   justify-content: center;
   margin-top: 5rem; }
 
 .navbar {
-  display: grid;
-  grid-gap: 2rem; }
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center; }
 
 .navlogo {
   display: grid;
@@ -265,17 +194,11 @@ article {
 
 .nav-toggle {
   display: none; }
-  .nav-toggle:checked ~ .navlinks {
+  .nav-toggle:checked ~ .navbar {
     display: none; }
 
 .navtoggle-label span {
   font-size: 2rem; }
-
-.navlinks {
-  display: grid;
-  justify-content: flex-start;
-  align-content: center;
-  grid-gap: 2rem; }
 
 .a-none {
   text-decoration: none; }
@@ -284,5 +207,8 @@ a {
   text-decoration: none; }
   a:hover {
     color: red; }
+
+.navbartoggle {
+  display: none; }
 
 /*# sourceMappingURL=app.css.map */

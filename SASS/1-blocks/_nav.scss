@@ -1,6 +1,8 @@
 .navbar{
-    display:grid;
-    grid-gap: 2rem;
+    display:flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
    
 }
 .navlogo{
@@ -14,7 +16,7 @@
     display: none;
 &:checked{
     
-       ~ .navlinks{
+       ~ .navbar{
 display: none;
         }
     
@@ -26,12 +28,7 @@ display: none;
         
     }
 }
-.navlinks{
-display: grid;
-justify-content: flex-start;
-align-content: center;
-grid-gap: 2rem;
-}
+
 .a-none{
     text-decoration: none;
 }
@@ -40,4 +37,7 @@ a{
 &:hover{
 color:red;
 }
+}
+.navbartoggle{
+    display:none;
 }
