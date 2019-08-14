@@ -28,5 +28,5 @@
 
 
 ## Author
-Salum Habibu
+#### Salum Habibu https://github.com/IBUNHABIBU
    [live demo version](https://raw.githack.com/IBUNHABIBU/GRID-FRAMEWORK/gridframework/index.html)
