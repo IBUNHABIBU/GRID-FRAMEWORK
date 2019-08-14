@@ -1,0 +1,42 @@
+.navbar{
+    display:grid;
+    grid-gap: 2rem;
+   
+}
+.navlogo{
+    display: grid;
+    justify-content:flex-end;
+    align-content: center;
+    font-size: 3rem;
+    width:10%;
+}
+.nav-toggle{
+    display: none;
+&:checked{
+    
+       ~ .navlinks{
+display: none;
+        }
+    
+}
+}
+.navtoggle-label {
+    span{
+        font-size: 2rem;
+        
+    }
+}
+.navlinks{
+display: grid;
+justify-content: flex-start;
+align-content: center;
+grid-gap: 2rem;
+}
+.a-none{
+    text-decoration: none;
+}
+a{
+&:hover{
+color:red;
+}
+}

@@ -39,11 +39,20 @@
 }
 //**************************    Margin  ******************************************
 .mgl{
-    margin-left: 4rem;
+    margin-left: 1rem;
 }
 .mgr{
     margin-right: 1rem;
 }
+
+.mgt{
+    margin-bottom: 1rem;
+}
+
+.mgb{
+    margin-bottom: 1rem;
+}
+
 
 .family-roboto{
     font-family: $font-roboto-condensed;
