@@ -165,7 +165,7 @@ article {
   font-size: 2.5rem;
   width: 50%; }
 
-@media only screen and (min-width: 768px) {
+@media only screen and (max-width: 768px) {
   .navtoggle-label span {
     font-size: 2rem;
     display: none; }
@@ -212,9 +212,6 @@ article {
   .c-l-12 {
     flex: 0 0 100%; } }
 @media only screen and (max-width: 480px) {
-  .row {
-    max-width: 768px; }
-
   .c-l-1 {
     flex: 0 0 8.3333333333%; }
 
@@ -283,7 +280,9 @@ article {
 .a-none {
   text-decoration: none; }
 
-a:hover {
-  color: red; }
+a {
+  text-decoration: none; }
+  a:hover {
+    color: red; }
 
 /*# sourceMappingURL=app.css.map */
