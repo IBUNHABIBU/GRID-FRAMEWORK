@@ -1,12 +1,39 @@
-@media only screen  and (min-width:768px)
+@media only screen and (min-width:1024px)
 {
-    .navbar{
-        display:none;
+    
+.navbartoggle{
+   display:none;
+}
+}
+@media only screen and (max-width:768px)
+{
+    
+    .imagestyle{
+        width:80%;
+    }
+@for $i from 1 through $columns{
+    .c-m-#{$i}{
+        flex:0 0 100%/$columns*$i;
     }
 }
-@media only screen  and (min-width:480px)
+.navbar{
+    display: none;
+
+}
+}
+@media only screen and (max-width:480px)
 {
-    .navbar{
-        display:none;
-    }
+    
+.navbar{
+    display: flex;
+flex-direction: column;
+}
+.imagestyle{
+    width:100%;
+}
+@for $i from 1 through $columns{
+.c-s-#{$i}{
+    flex:0 0 100%/$columns*$i;
+}
+}
 }
