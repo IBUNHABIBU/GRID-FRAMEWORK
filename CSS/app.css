@@ -261,33 +261,4 @@ article {
   justify-content: center;
   margin-top: 5rem; }
 
-.navbar {
-  display: flex;
-  flex-direction: row;
-  justify-content: space-around;
-  align-items: center; }
-
-.navlogo {
-  display: grid;
-  justify-content: flex-end;
-  align-content: center;
-  font-size: 3rem;
-  width: 10%; }
-
-.nav-toggle {
-  display: none; }
-  .nav-toggle:checked ~ .navbar {
-    display: none; }
-
-.navtoggle-label span {
-  font-size: 2rem; }
-
-.a-none {
-  text-decoration: none; }
-
-a {
-  text-decoration: none; }
-  a:hover {
-    color: red; }
-
 /*# sourceMappingURL=app.css.map */
