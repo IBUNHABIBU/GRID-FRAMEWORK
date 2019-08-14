@@ -1,0 +1,15 @@
+html{
+    margin: 0;
+    padding: 0;
+   @include typo($font-roboto-condensed,10px,500,$primaryColor);
+   box-sizing: border-box;
+}
+*{
+    box-sizing: inherit;
+    &:before{
+        box-sizing: inherit;
+    }
+    &:after{
+        box-sizing: inherit;
+    }
+}

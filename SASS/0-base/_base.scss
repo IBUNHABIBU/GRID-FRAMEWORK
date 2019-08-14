@@ -1,0 +1,75 @@
+.red{
+    color:red;
+}
+.white{
+    color:white;
+}
+.light{
+    color:$lightColor;
+}
+.blue{
+    color:blue;
+}
+.black{
+    color:$primaryColor;
+}
+.yellow{
+    color:yellow;
+}
+
+// ***********************************  Background  ************************************
+
+.bg-red{
+    color:red;
+}
+.bg-white{
+    color:white;
+}
+.bg-light{
+    color:$lighter;
+}
+.bg-blue{
+    color:blue;
+}
+.bg-black{
+    color:$primaryColor;
+}
+.bg-yellow{
+    color:yellow;
+}
+//**************************    Margin  ******************************************
+.mgl{
+    margin-left: 4rem;
+}
+.mgr{
+    margin-right: 1rem;
+}
+
+.family-roboto{
+    font-family: $font-roboto-condensed;
+}
+.family-Arial{
+    font-family: $font-stack-arial;
+}
+.family-helvetica{
+    font-family: Helvetica, sans-serif;
+}
+.fs-1{
+    font-size: 1rem;
+}
+.fs-13{
+    font-size: 1.3rem;
+}
+.fs-14{
+    font-size: 1.4rem;
+}
+.fs-17{
+    font-size: 1.7rem;
+}
+.fs-20{
+    
+        font-size: 2rem;
+}
+.border{
+    border: 0.1rem solid black
+}
