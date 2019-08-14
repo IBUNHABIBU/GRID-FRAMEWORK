@@ -168,9 +168,22 @@ article {
   font-size: 2.5rem;
   width: 50%; }
 
-@media only screen and (min-width: 768px) {
+a {
+  text-decoration: none; }
+
+@media only screen and (min-width: 778px) {
   header {
-    background: red; } }
+    display: grid;
+    grid-template-columns: 20% 70% 10%; }
+    header .nav-toggle-label {
+      display: none; }
+    header nav {
+      all: unset;
+      display: flex;
+      align-items: center; }
+      header nav ul {
+        display: flex;
+        justify-content: space-between; } }
 @media only screen and (max-width: 768px) {
   .imagestyle {
     width: 80%; }
@@ -275,9 +288,7 @@ nav {
   text-align: left;
   top: 100%;
   left: 0;
-  transform: scale(1, 0);
-  transform-origin: top;
-  transition: transform 400ms ease-in-out; }
+  display: none; }
   nav ul {
     margin: 0;
     padding: 0; }
@@ -294,9 +305,7 @@ nav {
 .nav-toggle {
   display: none; }
   .nav-toggle:checked ~ nav {
-    transform: scale(1, 1);
-    text-transform: uppercase;
-    font-weight: bolder; }
+    display: block; }
 
 .nav-toggle-label {
   position: absolute;

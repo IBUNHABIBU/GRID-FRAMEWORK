@@ -1,8 +1,8 @@
 header{
-    background:white;
-    text-align:center;
-    position: absolute;
-    z-index: 999;
+     background:white;
+     text-align:center;
+     position: absolute;
+     z-index: 999;
     width:100%;
 }
 nav{
@@ -12,10 +12,10 @@ nav{
     text-align: left;
     top: 100%;
     left: 0;
-    // display: none;
-    transform: scale(1,0);
-    transform-origin: top;
-    transition: transform 400ms ease-in-out;
+     display: none;
+    // transform: scale(1,0);
+    // transform-origin: top;
+    // transition: transform 400ms ease-in-out;
     ul{
         margin: 0;
         padding: 0;
@@ -36,10 +36,10 @@ nav{
 .nav-toggle{
      display: none;
     &:checked ~nav{
-         // display: block;
-transform: scale(1,1);
-text-transform: uppercase;
-font-weight: bolder;
+         display: block;
+// transform: scale(1,1);
+// text-transform: uppercase;
+// font-weight: bolder;
     }
 }
 .nav-toggle-label{
