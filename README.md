@@ -1,7 +1,9 @@
 # GRID-FRAMEWORK
-## The project to design custome made Grid based framework using
+## The project to design custome made Grid based framework 
+using
 * SASS
- I used to clone the [Ask media website ](https://raw.githack.com/IBUNHABIBU/GRID-FRAMEWORK/gridframework/index.html)
+ #I used to clone the 
+ [Ask media website ](https://raw.githack.com/IBUNHABIBU/GRID-FRAMEWORK/gridframework/index.html)
 
    *****************************    USER GUIDES **************************************************
  ### colors
