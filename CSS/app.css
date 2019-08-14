@@ -168,8 +168,11 @@ article {
   font-size: 2.5rem;
   width: 50%; }
 
-@media only screen and (min-width: 1024px) {
-  .navbartoggle {
+@media screen and (min-width: 800px) {
+  nav {
+    background: red; }
+
+  .nav-toggle-label {
     display: none; } }
 @media only screen and (max-width: 768px) {
   .imagestyle {
@@ -260,5 +263,50 @@ article {
   display: flex;
   justify-content: center;
   margin-top: 5rem; }
+
+header {
+  background: white;
+  text-align: center;
+  position: fixed;
+  z-index: 999;
+  width: 100%; }
+
+nav {
+  background: white;
+  width: 100%;
+  position: absolute;
+  text-align: left;
+  top: 100%;
+  left: 0;
+  transform: scale(1, 0);
+  transform-origin: top;
+  transition: transform 400ms ease-in-out; }
+  nav ul {
+    margin: 0;
+    padding: 0; }
+  nav li {
+    margin-bottom: 1rem;
+    margin-left: 1rem;
+    list-style: none; }
+  nav a {
+    color: #6d6b6b;
+    text-decoration: none; }
+    nav a:hover {
+      color: #8f0606; }
+
+.nav-toggle {
+  display: none; }
+  .nav-toggle:checked ~ nav {
+    transform: scale(1, 1);
+    text-transform: uppercase;
+    font-weight: bolder; }
+
+.nav-toggle-label {
+  position: absolute;
+  top: 0;
+  left: 0;
+  margin-left: 1rem;
+  display: flex;
+  align-items: center; }
 
 /*# sourceMappingURL=app.css.map */

@@ -1,8 +1,10 @@
-@media only screen and (min-width:1024px)
+@media  screen and (min-width:800px)
 {
-    
-.navbartoggle{
-   display:none;
+    nav{
+        background: red;
+    }
+.nav-toggle-label{
+    display:none;
 }
 }
 @media only screen and (max-width:768px)
