@@ -1,11 +1,7 @@
 # GRID-FRAMEWORK
 ## The project to design custome made Grid based framework using
 * SASS
-### I used to clone the Ask media website
-
-## Author
-Salum Habibu
-   [live demo version](https://raw.githack.com/IBUNHABIBU/Bootstrap-Project/bootstrap/index.html)
+ I used to clone the [Ask media website ](https://raw.githack.com/IBUNHABIBU/GRID-FRAMEWORK/gridframework/index.html)
 
    *****************************    USER GUIDES **************************************************
  ### colors
@@ -29,3 +25,8 @@ Salum Habibu
  * c-l-   => colum for large screen it ranges from 1 columns to 12 columns
  * c-m-  => colum for medium screen it ranges from 1 columns to 12 columns
  * c-s- => colum for small screen it ranges from 1 columns to 12 columns
+
+
+## Author
+Salum Habibu
+   [live demo version](https://raw.githack.com/IBUNHABIBU/GRID-FRAMEWORK/gridframework/index.html)
