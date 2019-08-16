@@ -60,8 +60,7 @@ html {
   font-family: "Roboto Condensed", sans-serif;
   font-weight: 500;
   box-sizing: border-box;
-} /*end of new line*/
-
+} 
 * {box-sizing: inherit;}
 
   *:before {box-sizing: inherit;}
@@ -71,8 +70,7 @@ html {
 .row {
   display: flex;
   flex-wrap: wrap; 
-}/*end of new line*/
-
+}
 .c-l-1 {flex: 0 0 8.3333333333%;}
 
 .c-l-2 {flex: 0 0 16.6666666667%;}
@@ -131,20 +129,20 @@ a {text-decoration: none;}
   header {
     display: grid;
     grid-template-columns: 20% 70% 10%; 
-  } /*end of new line*/
+  }
     header .nav-toggle-label {
       display: none; 
-      }/*end of new line*/
+      }
     header nav {
       all: unset;
       display: flex;
       align-items: center; 
-    }/*end of new line*/
+    }
       header nav ul {
         display: flex;
         justify-content: space-between; 
-      } /*end of new line*/
-}/*end of new line*/
+      } 
+}
       
 @media only screen and (max-width: 768px) {
   .imagestyle {
