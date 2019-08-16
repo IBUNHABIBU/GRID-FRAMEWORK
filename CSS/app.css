@@ -237,7 +237,8 @@ a {
     grid-template-columns: 20% 70% 10%; 
   }
     header .nav-toggle-label {
-      display: none; }
+      display: none; 
+      }
     header nav {
       all: unset;
       display: flex;
@@ -247,6 +248,7 @@ a {
         display: flex;
         justify-content: space-between; 
       } 
+}
       
 @media only screen and (max-width: 768px) {
   .imagestyle {
