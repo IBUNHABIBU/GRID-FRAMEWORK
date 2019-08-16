@@ -1,42 +1,22 @@
 
-.red {
-  color: red;
-}
+.red {color: red;}
 
-.white {
-  color: white;
- }
+.white {color: white;}
 
-.light {
-  color: #6d6b6b;
-}
+.light {color: #6d6b6b;}
 
-.blue {
-  color: blue; 
-}
+.blue {color: blue;}
 
-.black {
-  color: #000000; 
-}
+.black {color: #000;}
 
-.yellow {
-  color: yellow; 
-}
+.yellow {color: yellow;}
 
-.maroon {
-  color: #cf0000; 
-}
+.maroon {color: #cf0000;}
 
-.bg-red {
-  color: red; 
-}
-.bg-white {
-  color: white; 
-}
+.bg-red {color: red;}
+.bg-white {color: white;}
 
-.bg-light {
-  color: #cac7c7; 
-}
+.bg-light {color: #cac7c7;}
 
 .bg-blue {
   color: blue; 
