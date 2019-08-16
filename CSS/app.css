@@ -1,6 +1,7 @@
+
 .red {
   color: red; 
-
+  
 }
 .white {
   color: white;
@@ -366,6 +367,7 @@ a {
     display: none;
    } 
   }
+
 @media only screen and (max-width: 480px) {
   .navbar {
     display: flex;
