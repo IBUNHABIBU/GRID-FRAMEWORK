@@ -33,44 +33,37 @@
 .bg-white {
   color: white; 
 }
+
 .bg-light {
   color: #cac7c7; 
-
 }
 
 .bg-blue {
   color: blue; 
-
 }
 
 .bg-black {
   color: #000000; 
-
 }
 
 .bg-yellow {
   color: yellow; 
-
 }
 
 .mgl {
   margin-left: 3rem; 
-
 }
 
 .mgr {
   margin-right: 3rem; 
-
 }
 
 .mgt {
   margin-top: 3rem; 
-
 }
 
 .mgb {
   margin-bottom: 3rem;
-
 }
 
 .family-roboto {
@@ -121,41 +114,35 @@ html {
   font-family: "Roboto Condensed", sans-serif;
   font-weight: 500;
   box-sizing: border-box; 
-
 }
 
 * {
   box-sizing: inherit; 
-
 }
+
   *:before {
     box-sizing: inherit; 
-  
   }
+
   *:after {
     box-sizing: inherit; 
-  
   }
 
 .row {
   display: flex;
   flex-wrap: wrap; 
-
 }
 
 .c-l-1 {
   flex: 0 0 8.3333333333%; 
-
 }
 
 .c-l-2 {
   flex: 0 0 16.6666666667%; 
-
 }
 
 .c-l-3 {
   flex: 0 0 25%;
-
 }
 
 .c-l-4 {
@@ -335,7 +322,8 @@ a {
   }
 
   .c-6 {
-    flex: 0 0 50%; }
+    flex: 0 0 50%;
+   }
 
   .c-7 {
     flex: 0 0 58.3333333333%; 
@@ -354,7 +342,8 @@ a {
   }
 
   .c-11 {
-    flex: 0 0 91.6666666667%; }
+    flex: 0 0 91.6666666667%;
+   }
 
   .c-12 {
     flex: 0 0 100%; 
@@ -372,7 +361,8 @@ a {
   }
 
   .imagestyle {
-    width: 100%; }
+    width: 100%; 
+  }
 
   .c-s-1 {
     flex: 0 0 8.3333333333%; 
@@ -383,7 +373,8 @@ a {
   }
 
   .c-s-3 {
-    flex: 0 0 25%; }
+    flex: 0 0 25%; 
+  }
 
   .c-s-4 {
     flex: 0 0 33.3333333333%; 
@@ -394,7 +385,8 @@ a {
   }
 
   .c-s-6 {
-    flex: 0 0 50%; }
+    flex: 0 0 50%; 
+  }
 
   .c-s-7 {
     flex: 0 0 58.3333333333%; 
@@ -405,7 +397,8 @@ a {
   }
 
   .c-s-9 {
-    flex: 0 0 75%; }
+    flex: 0 0 75%; 
+  }
 
   .c-s-10 {
     flex: 0 0 83.3333333333%; 
