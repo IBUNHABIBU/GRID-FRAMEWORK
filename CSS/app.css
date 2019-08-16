@@ -226,6 +226,45 @@ a {
 
   .navbar {
     display: none; } }
+@media only screen and (max-width: 500px) {
+  .c-1 {
+    flex: 0 0 8.3333333333%; }
+
+  .c-2 {
+    flex: 0 0 16.6666666667%; }
+
+  .c-3 {
+    flex: 0 0 25%; }
+
+  .c-4 {
+    flex: 0 0 33.3333333333%; }
+
+  .c-5 {
+    flex: 0 0 41.6666666667%; }
+
+  .c-6 {
+    flex: 0 0 50%; }
+
+  .c-7 {
+    flex: 0 0 58.3333333333%; }
+
+  .c-8 {
+    flex: 0 0 66.6666666667%; }
+
+  .c-9 {
+    flex: 0 0 75%; }
+
+  .c-10 {
+    flex: 0 0 83.3333333333%; }
+
+  .c-11 {
+    flex: 0 0 91.6666666667%; }
+
+  .c-12 {
+    flex: 0 0 100%; }
+
+  .navbar {
+    display: none; } }
 @media only screen and (max-width: 480px) {
   .navbar {
     display: flex;

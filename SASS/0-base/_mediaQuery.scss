@@ -39,6 +39,22 @@
 
 }
 }
+@media only screen and (max-width:500px)
+{
+    
+    .imagestyle{
+       // width:80%;
+    }
+@for $i from 1 through $columns{
+    .c-#{$i}{
+        flex:0 0 100%/$columns*$i;
+    }
+}
+.navbar{
+    display: none;
+
+}
+}
 @media only screen and (max-width:480px)
 {
     
