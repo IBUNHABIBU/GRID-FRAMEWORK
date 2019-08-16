@@ -18,73 +18,39 @@
 
 .bg-light {color: #cac7c7;}
 
-.bg-blue {
-  color: blue; 
-}
+.bg-blue {color: blue;}
 
-.bg-black {
-  color: #000000; 
-}
+.bg-black {color: #000000;}
 
-.bg-yellow {
-  color: yellow; 
-}
+.bg-yellow {color: yellow;}
 
-.mgl {
-  margin-left: 3rem; 
-}
+.mgl {margin-left: 3rem;}
 
-.mgr {
-  margin-right: 3rem; 
-}
+.mgr {margin-right: 3rem;}
 
-.mgt {
-  margin-top: 3rem; 
-}
+.mgt {margin-top: 3rem;}
 
-.mgb {
-  margin-bottom: 3rem;
-}
+.mgb {margin-bottom: 3rem}
 
-.family-roboto {
-  font-family: "Roboto Condensed", sans-serif; 
-}
+.family-roboto {font-family: "Roboto Condensed", sans-serif;}
 
-.family-Arial {
-  font-family: Arial, Helvetica, sans-serif; 
-}
+.family-Arial {font-family: Arial, Helvetica, sans-serif;}
 
-.family-helvetica {
-  font-family: Helvetica, sans-serif;
- }
+.family-helvetica {font-family: Helvetica, sans-serif;}
 
-.fs-1 {
-  font-size: 1rem; 
-}
+.fs-1 {font-size: 1rem;}
 
-.fs-13 {
-  font-size: 1.3rem;
- }
+.fs-13 {font-size: 1.3rem;}
 
-.fs-14 {
-  font-size: 1.4rem;
- }
+.fs-14 {font-size: 1.4rem;}
 
-.fs-17 {
-  font-size: 1.7rem; 
-}
+.fs-17 {font-size: 1.7rem;}
 
-.fs-20 {
-  font-size: 2rem; 
-}
+.fs-20 {font-size: 2rem;}
 
-.border {
-  border: 0.1rem solid black; 
-}
+.border {border: 0.1rem solid black;}
 
-.ld-none {
-  display: none;
- }
+.ld-none {display: none;}
 
 html {
   margin: 0;
@@ -96,74 +62,44 @@ html {
   box-sizing: border-box; 
 }
 
-* {
-  box-sizing: inherit; 
-}
+* {box-sizing: inherit;}
 
-  *:before {
-    box-sizing: inherit; 
-  }
+  *:before {box-sizing: inherit;}
 
-  *:after {
-    box-sizing: inherit; 
-  }
+  *:after {box-sizing: inherit;}
 
 .row {
   display: flex;
   flex-wrap: wrap; 
 }
 
-.c-l-1 {
-  flex: 0 0 8.3333333333%; 
-}
+.c-l-1 {flex: 0 0 8.3333333333%;}
 
-.c-l-2 {
-  flex: 0 0 16.6666666667%; 
-}
+.c-l-2 {flex: 0 0 16.6666666667%;}
 
-.c-l-3 {
-  flex: 0 0 25%;
-}
+.c-l-3 {flex: 0 0 25%}
 
-.c-l-4 {
-  flex: 0 0 33.3333333333%;
- }
+.c-l-4 {flex: 0 0 33.3333333333%;}
 
-.c-l-5 {
-  flex: 0 0 41.6666666667%; 
-}
+.c-l-5 {flex: 0 0 41.6666666667%;}
 
-.c-l-6 {
-  flex: 0 0 50%; 
-}
+.c-l-6 {flex: 0 0 50%;}
 
-.c-l-7 {
-  flex: 0 0 58.3333333333%; 
-}
+.c-l-7 {flex: 0 0 58.3333333333%;}
 
-.c-l-8 {
-  flex: 0 0 66.6666666667%; 
-}
+.c-l-8 {flex: 0 0 66.6666666667%;}
 
-.c-l-9 {
-  flex: 0 0 75%; 
-}
+.c-l-9 {flex: 0 0 75%;}
 
-.c-l-10 {
-  flex: 0 0 83.3333333333%;
- }
+.c-l-10 {flex: 0 0 83.3333333333%;}
 
 .c-l-11 {
   flex: 0 0 91.6666666667%; 
 }
 
-.c-l-12 {
-  flex: 0 0 100%; 
-}
+.c-l-12flex: 0 0 100}
 
-article {
-  width: calc(100%-10px);
- }
+articlewidth: calc(100%-10px}
 
 .mainpage {
   background-image: url("https://www.askmediagroup.com/wp-content/uploads/2018/04/3254185205_7c162f3488_o-e1524963043874.jpg");
@@ -174,21 +110,13 @@ article {
   height: 40rem; 
 }
 
-.jc-center {
-  justify-content: center; 
-}
+.jc-center {justify-content: center;}
 
-.jc-end {
-  justify-content: flex-end; 
-}
+.jc-end {justify-content: flex-end;}
 
-.jc-start {
-  justify-content: flex-start; 
-}
+.jc-start {justify-content: flex-start;}
 
-.align-center {
-  align-items: center;
- }
+.align-center {align-items: center;}
 
 .main-para {
   text-align: center;
@@ -201,9 +129,7 @@ article {
   width: 50%; 
 }
 
-a {
-  text-decoration: none;
- }
+a {text-decoration: none;}
 
 @media only screen and (min-width: 778px) {
   header {
@@ -229,52 +155,29 @@ a {
     width: 80%; 
   }
 
-  .c-m-1 {
-    flex: 0 0 8.3333333333%; 
-  }
+  .c-m-1 {flex: 0 0 8.3333333333%;}
 
-  .c-m-2 {
-    flex: 0 0 16.6666666667%; 
-  }
+  .c-m-2 {flex: 0 0 16.6666666667%;}
 
-  .c-m-3 {
-    flex: 0 0 25%; }
+  .c-m-3 {flex: 0 0 25%; }
 
-  .c-m-4 {
-    flex: 0 0 33.3333333333%; 
-  }
+  .c-m-4 {flex: 0 0 33.3333333333%;}
 
-  .c-m-5 {
-    flex: 0 0 41.6666666667%; 
-  }
+  .c-m-5 {flex: 0 0 41.6666666667%;}
 
-  .c-m-6 {
-    flex: 0 0 50%; 
-  }
+  .c-m-6 {flex: 0 0 50%;}
 
-  .c-m-7 {
-    flex: 0 0 58.3333333333%; 
-  }
+  .c-m-7 {flex: 0 0 58.3333333333%;}
 
-  .c-m-8 {
-    flex: 0 0 66.6666666667%; 
-  }
+  .c-m-8 {flex: 0 0 66.6666666667%;}
 
-  .c-m-9 {
-    flex: 0 0 75%;
-   }
+  .c-m-9 {flex: 0 0 75%;}
 
-  .c-m-10 {
-    flex: 0 0 83.3333333333%; 
-  }
+  .c-m-10 {flex: 0 0 83.3333333333%;}
 
-  .c-m-11 {
-    flex: 0 0 91.6666666667%; 
-  }
+  .c-m-11 {flex: 0 0 91.6666666667%;}
 
-  .c-m-12 {
-    flex: 0 0 100%; 
-  }
+  .c-m-12 {flex: 0 0 100%;}
 
   .navbar {
     display: none;
