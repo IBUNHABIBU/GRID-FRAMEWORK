@@ -1,69 +1,86 @@
 .red {
   color: red; 
+  
 }
 
 .white {
   color: white;
+  
  }
 
 .light {
   color: #6d6b6b; 
+  
 }
 
 .blue {
   color: blue; 
+  
 }
 
 .black {
   color: #000000; 
+  
 }
 
 .yellow {
   color: yellow; 
+  
 }
 
 .maroon {
   color: #cf0000; 
+  
 }
 
 .bg-red {
   color: red; 
+  
 }
 
 .bg-white {
   color: white; 
+  
 }
 
 .bg-light {
   color: #cac7c7; 
+  
 }
 
 .bg-blue {
   color: blue; 
+
 }
 
 .bg-black {
   color: #000000; 
+
 }
 
 .bg-yellow {
   color: yellow; 
+
 }
 
 .mgl {
   margin-left: 3rem; 
+
 }
 
 .mgr {
-  margin-right:3rem; 
+  margin-right: 3rem; 
+
 }
 
 .mgt {
-  margin-top:3rem; 
+  margin-top: 3rem; 
+
 }
 
 .mgb {
-  margin-bottom:3rem; 
+  margin-bottom: 3rem;
+
 }
 
 .family-roboto {
