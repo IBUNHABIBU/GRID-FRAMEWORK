@@ -196,9 +196,9 @@ a {text-decoration: none;}
 
   .c-11 {flex: 0 0 91.6666666667%}
 
-  .c-1flex: 0 0 10}
+  .c-12{flex: 0 0 100%}
 
-  .navbadisplay: no} 
+  .navbar {display: none} 
   }
 
 @media only screen and (max-width: 480px) {
