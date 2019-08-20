@@ -238,13 +238,13 @@ a {text-decoration: none;}
   margin-top: 5rem; 
     }
 
-header {
+header{
   background: white;
   text-align: center;
   position: absolute;
   z-index: 999;
   width: 100%; 
-}
+      }
 
 nav{
   background: white;
