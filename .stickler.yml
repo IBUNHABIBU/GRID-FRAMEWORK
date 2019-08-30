@@ -6,6 +6,6 @@ linters:
     ignore:
         - 'src/generated/*'
         - 'webroot/bower_components/*'
-        - 'SASS*'
+        - 'SASS/0-base/_base-dir.scss*'
 fixers:
     enable: true
