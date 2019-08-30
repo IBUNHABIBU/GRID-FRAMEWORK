@@ -113,17 +113,16 @@ html{
 
 .align-center {align-items: center;}
 
-.main-para 
-{
-  text-align: center;
-  position: relative;
-  top: 20%;
-  left: 20%;
-  font-weight: bold;
-  opacity: 1;
-  font-size: 2.5rem;
-  width: 50%; 
-} 
+  .main-para {
+    text-align: center;
+    position: relative;
+    top: 20%;
+    left: 20%;
+    font-weight: bold;
+    opacity: 1;
+    font-size: 2.5rem;
+    width: 50%;
+  } 
 
 a {text-decoration: none;}
 
