@@ -1,54 +1,54 @@
 .red { color: red; }
 
-.white {color: white;}
+.white { color: white; }
 
-.light {color: #6d6b6b;}
+.light { color: #6d6b6b; }
 
-.blue {color: blue;}
+.blue { color: blue; }
 
-.black {color: #000;}
+.black { color: #000; }
 
-.yellow {color: yellow;}
+.yellow { color: yellow; }
 
-.maroon {color: #cf0000;}
+.maroon { color: #cf0000; }
 
-.bg-red {color: red;}
+.bg-red { color: red; }
 
-.bg-light {color: #cac7c7;}
+.bg-light { color: #cac7c7; }
 
-.bg-blue {color: blue;}
+.bg-blue { color: blue; }
 
-.bg-black {color: #000;}
+.bg-black { color: #000; }
 
-.bg-yellow {color: yellow;}
+.bg-yellow { color: yellow; }
 
-.mgl {margin-left: 3rem;}
+.mgl { margin-left: 3rem; }
 
-.mgr {margin-right: 3rem;}
+.mgr { margin-right: 3rem; }
 
-.mgt {margin-top: 3rem;}
+.mgt { margin-top: 3rem; }
 
-.mgb {margin-bottom: 3rem;}
+.mgb { margin-bottom: 3rem; }
 
-.family-roboto {font-family: "Roboto Condensed", sans-serif;}
+.family-roboto { font-family: "Roboto Condensed", sans-serif; }
 
-.family-Arial {font-family: Arial, Helvetica, sans-serif;}
+.family-Arial { font-family: Arial, Helvetica, sans-serif; }
 
-.family-helvetica {font-family: Helvetica, sans-serif;}
+.family-helvetica { font-family: Helvetica, sans-serif; }
 
-.fs-1 {font-size: 1rem;}
+.fs-1 { font-size: 1rem; }
 
-.fs-13 {font-size: 1.3rem;}
+.fs-13 { font-size: 1.3rem; }
 
-.fs-14 {font-size: 1.4rem;}
+.fs-14 { font-size: 1.4rem; }
 
-.fs-17 {font-size: 1.7rem;}
+.fs-17 { font-size: 1.7rem; }
 
-.fs-20 {font-size: 2rem;}
+.fs-20 { font-size: 2rem; }
 
-.border {border: 0.1rem solid black;}
+.border { border: 0.1rem solid black; }
 
-.ld-none {display: none;}
+.ld-none { display: none; }
 
 html {
   margin: 0;
