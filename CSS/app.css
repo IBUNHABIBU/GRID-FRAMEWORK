@@ -1,4 +1,4 @@
-.red { color: red; }
+.red{ color: red; }
 
 .white { color: white; }
 
@@ -60,17 +60,11 @@ html {
   box-sizing: border-box;
 }
 
-* {
-  box-sizing: inherit;
-}
+* { box-sizing: inherit; }
 
-*::before {
-  box-sizing: inherit;
-}
+*::before { box-sizing: inherit; }
 
-*::after {
-  box-sizing: inherit;
-}
+*::after { box-sizing: inherit; }
 
 .row {
   display: flex;
