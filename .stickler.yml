@@ -4,7 +4,7 @@ linters:
     
     files:
     ignore:
-        - 'src/generated/*.scss'
+        - 'src/generated/*'
         - 'webroot/bower_components/*'
         
 fixers:
