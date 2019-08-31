@@ -1,5 +1,5 @@
 # GRID-FRAMEWORK
-## The project to design custome made Grid based framework 
+## The project to design custom made Grid based framework 
 using
 * SASS
  #I used to clone the 
