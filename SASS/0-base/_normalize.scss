@@ -2,11 +2,13 @@ html {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  
   @include typo($font-roboto-condensed, 10px, 500, $primaryColor);
 }
 
 * {
   box-sizing: inherit;
   &::before { box-sizing: inherit; }
+
   &::after { box-sizing: inherit; }
 }
