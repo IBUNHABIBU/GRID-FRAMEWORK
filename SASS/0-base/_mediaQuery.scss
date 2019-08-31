@@ -37,7 +37,6 @@
   @for $i from 1 through $columns {
 
     .c-#{$i} { flex: 0 0 100% / $columns * $i; }
-
   }
 
   .navbar { display: none; }
@@ -48,12 +47,11 @@
     display: flex;
     flex-direction: column;
   }
-  
+
   .imagestyle { width: 100%; }
 
   @for $i from 1 through $columns {
 
     .c-s-#{$i} { flex: 0 0 100% / $columns * $i; }
-
   }
 }
