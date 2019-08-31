@@ -1,14 +1,13 @@
-@mixin typo($family,$size,$weight,$colorvar){
-    color:$colorvar;
-    font:{
-        size:$size;
-        family: $family;
-        weight:$weight;
-      
-    }
+@mixin typo($family, $size, $weight, $colorvar) {
+  color: $colorvar;
+  font: {
+    size: $size;
+    family: $family;
+    weight: $weight;
+  }
 }
 
-@mixin hover-action($decoration,$tcolor){
-text-decoration: $decoration;
-text-decoration-color: $tcolor;
+@mixin hover-action($decoration, $tcolor) {
+  text-decoration: $decoration;
+  text-decoration-color: $tcolor;
 }
