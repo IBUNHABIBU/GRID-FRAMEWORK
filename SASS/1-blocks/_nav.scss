@@ -29,10 +29,7 @@ nav {
   a {
     color: $lightColor;
     text-decoration: none;
-
-    &:hover {
-      color: rgb(143, 6, 6);
-    }
+    &:hover { color: rgb(143, 6, 6); }
   }
 }
 
