@@ -2,13 +2,16 @@
   header {
     display: grid;
     grid-template-columns: 20% 70% 10%;
+
     .nav-toggle-label {
       display: none;
     }
+
     nav {
       all: unset;
       display: flex;
       align-items: center;
+      
       ul {
         display: flex;
         justify-content: space-between;
