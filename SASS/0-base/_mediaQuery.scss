@@ -1,0 +1,53 @@
+@media only screen and (min-width: 778px) {
+  header {
+    display: grid;
+    grid-template-columns: 20% 70% 10%;
+
+    .nav-toggle-label { display: none; }
+
+    nav {
+      all: unset;
+      display: flex;
+      align-items: center;
+      ul {
+        display: flex;
+        justify-content: space-between;
+      }
+    }
+  }
+}
+
+@media only screen and (max-width: 768px) {
+  .imagestyle { width: 80%; }
+
+  @for $i from 1 through $columns {
+    .c-m-#{$i} { flex: 0 0 100% / $columns * $i; }
+  }
+
+  .navbar {
+    display: none;
+  }
+}
+
+@media only screen and (max-width: 500px) {
+  @for $i from 1 through $columns {
+
+    .c-#{$i} { flex: 0 0 100% / $columns * $i; }
+  }
+
+  .navbar { display: none; }
+}
+
+@media only screen and (max-width: 480px) {
+  .navbar {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .imagestyle { width: 100%; }
+
+  @for $i from 1 through $columns {
+
+    .c-s-#{$i} { flex: 0 0 100% / $columns * $i; }
+  }
+}
