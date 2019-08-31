@@ -38,7 +38,6 @@ nav {
 
 .nav-toggle {
   display: none;
-  
   &:checked ~ nav {
     display: block;
   }
