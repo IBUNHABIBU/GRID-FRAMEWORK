@@ -4,43 +4,40 @@
 }
 
 @for $i from 1 through $columns{
+
     .c-l-#{$i}{
-        flex:0 0 100%/$columns*$i;
+        flex: 0 0 100%/$columns*$i;
     }
 }
-article{
-    width:calc(100%-10px);
-}
+
+article{ width: calc(100%-10px); }
+
 .mainpage{
  background-image: url('https://www.askmediagroup.com/wp-content/uploads/2018/04/3254185205_7c162f3488_o-e1524963043874.jpg');
     background-repeat: no-repeat;
     background-position: center;
-    background-size:cover;
-    width:100%;
-    height:40rem;
+    background-size: cover;
+    width: 100%;
+    height: 40rem;
 }
-.jc-center{
-    justify-content: center;
-}
-.jc-end{
-    justify-content: flex-end;
-}
-.jc-start{
-    justify-content: flex-start;
-}
-.align-center{
-align-items: center;
-}
+.jc-center{ justify-content: center; }
+
+.jc-end{ justify-content: flex-end; }
+
+.jc-start{ justify-content: flex-start; }
+
+.align-center align-items: center; }
+
 .main-para{
     text-align: center;
      position: relative;
-     top:20%;
-     left:20%;
+     top: 20%;
+     left: 20%;
      font-weight: bold;
      opacity: 1;
      font-size: 2.5rem;
-     width:50%;
+     width: 50%;
 }
 
-    a{ text-decoration: none; }
+a{ text-decoration: none; }
     
