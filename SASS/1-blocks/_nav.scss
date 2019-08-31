@@ -14,7 +14,7 @@ nav {
   top: 100%;
   left: 0;
   display: none;
-  
+
   ul {
     margin: 0;
     padding: 0;
@@ -29,6 +29,7 @@ nav {
   a {
     color: $lightColor;
     text-decoration: none;
+
     &:hover {
       color: rgb(143, 6, 6);
     }
@@ -37,6 +38,7 @@ nav {
 
 .nav-toggle {
   display: none;
+  
   &:checked ~ nav {
     display: block;
   }
