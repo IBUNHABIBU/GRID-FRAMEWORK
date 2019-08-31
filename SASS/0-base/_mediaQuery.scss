@@ -18,14 +18,10 @@
 }
 
 @media only screen and (max-width: 768px) {
-  .imagestyle {
-    width: 80%;
-  }
+  .imagestyle { width: 80%; }
 
   @for $i from 1 through $columns {
-    .c-m-#{$i} {
-      flex: 0 0 100% / $columns * $i;
-    }
+    .c-m-#{$i} { flex: 0 0 100% / $columns * $i; }
   }
 
   .navbar {
