@@ -2,8 +2,8 @@
 ## The project to design custome made Grid based framework 
 
 
-![screenshot](https://github.com/IBUNHABIBU/GRID-FRAMEWORK/blob/gridframework/images/gridhome.jpg)
-![screenshot](https://github.com/IBUNHABIBU/GRID-FRAMEWORK/blob/gridframework/images/gridbody.jpg)
+![screenshot](https://github.com/IBUNHABIBU/GRID-FRAMEWORK/blob/gridframework/images/gridhome.PNG)
+![screenshot](https://github.com/IBUNHABIBU/GRID-FRAMEWORK/blob/gridframework/images/gridbody.PNG)
 ![screenshot](https://github.com/IBUNHABIBU/GRID-FRAMEWORK/blob/gridframework/images/bodymobile.jpg)
 ![screenshot](https://github.com/IBUNHABIBU/GRID-FRAMEWORK/blob/gridframework/images/frontmobile.jpg)
 using
