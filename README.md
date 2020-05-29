@@ -10,7 +10,7 @@
 ## Built with
 * SASS
 
-#I used to clone the 
+I used to clone the 
  [Ask media website ](https://raw.githack.com/IBUNHABIBU/GRID-FRAMEWORK/gridframework/index.html)
 
 
