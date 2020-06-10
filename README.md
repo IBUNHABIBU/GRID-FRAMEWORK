@@ -39,14 +39,15 @@ I used to clone the
 
 
 ## Author
-#### Salum Habibu https://github.com/IBUNHABIBU
-   [live demo version](https://raw.githack.com/IBUNHABIBU/GRID-FRAMEWORK/gridframework/index.html)
-  
+* Github: [IBUNHABIBU](https://github.com/IBUNHABIBU)
+* Twitter: [@ibunhabibu](https://twitter.com/Ibunhabibu)
+* LinkedIn: [Salum Habibu Kombo](https://www.linkedin.com/in/salum-habibu/)
+
 ## your support 
 Give a :star: if you liked this project 
 ## Acknowledgments
 Credits goes to
-- My mentor technical assistance
+- My mentor for technical assistance
 - All Microverse TSEs for their feedback that make me to improve technically
 ## 📝 License
 This project is [MIT](LICENCE) licensed. 
