@@ -47,7 +47,7 @@ I used to clone the
 Give a :star: if you liked this project 
 ## Acknowledgments
 Credits goes to
-- My mentor technical assistance
+- My mentor for technical assistance
 - All Microverse TSEs for their feedback that make me to improve technically
 ## 📝 License
 This project is [MIT](LICENCE) licensed. 
