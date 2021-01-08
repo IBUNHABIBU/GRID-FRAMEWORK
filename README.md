@@ -1,6 +1,5 @@
 # GRID-FRAMEWORK
-## The project to design custome made Grid based framework 
-
+## The project to design custom made grid based framework.
 
 ![screenshot](https://github.com/IBUNHABIBU/GRID-FRAMEWORK/blob/gridframework/images/gridhome.PNG)
 ![screenshot](https://github.com/IBUNHABIBU/GRID-FRAMEWORK/blob/gridframework/images/gridbody.PNG)
@@ -8,7 +7,7 @@
 ![screenshot](https://github.com/IBUNHABIBU/GRID-FRAMEWORK/blob/gridframework/images/frontmobile.jpg)
 
 ## Built with
-* SASS
+* Sass
 
 I used to clone the 
  [Ask media website ](https://raw.githack.com/IBUNHABIBU/GRID-FRAMEWORK/gridframework/index.html)
@@ -47,8 +46,8 @@ I used to clone the
 Give a :star: if you liked this project 
 ## Acknowledgments
 Credits goes to
-- My mentor for technical assistance
-- All Microverse TSEs for their feedback that make me to improve technically
+- My mentor for technical assistance.
+- All Microverse TSEs for their feedback that make me to improve technically.
 ## 📝 License
 This project is [MIT](LICENCE) licensed. 
    
