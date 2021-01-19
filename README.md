@@ -10,16 +10,14 @@
     <p align="center"> <img src="https://raw.githubusercontent.com/github/explore/b7c8510756ee50efb38d1f01896e72b7a9737296/topics/phaser/phaser.png" alt="Phaser" width="100" height="100"> </p>
   </a>
 
-  <h2 align="center"> PLATFORM GAME</h2>
-  <h3 align="center"> This project is part of the Microverse curriculum in JavaScript module to design a platfom game using phaser library and test driven development</h3>
+  <h2 align="center"> GRID FRAMEWORK</h2>
+  <h3 align="center"> The project to design custom made grid based framework.</h3>
 
   <p align="center">
     <a href="https://github.com/IBUNHABIBU/platform-game/issues">Report Bug</a>
     <a href="https://github.com/IBUNHABIBU/platform-game/issues">Request Feature</a>
   </p>
 </p>
-# GRID-FRAMEWORK
-## The project to design custom made grid based framework.
 
 ![screenshot](https://github.com/IBUNHABIBU/GRID-FRAMEWORK/blob/gridframework/images/gridhome.PNG)
 ![screenshot](https://github.com/IBUNHABIBU/GRID-FRAMEWORK/blob/gridframework/images/gridbody.PNG)
