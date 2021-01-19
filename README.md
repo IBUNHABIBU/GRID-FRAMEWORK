@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="git@github.com:IBUNHABIBU/platform-game.git">
-    <p align="center"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS" width="100" height="100"> </p>
+    <p align="center"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" alt="SASS" width="100" height="100"> </p>
   </a>
 
   <h2 align="center"> GRID FRAMEWORK</h2>
