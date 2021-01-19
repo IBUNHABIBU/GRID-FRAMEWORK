@@ -18,7 +18,7 @@
     <a href="https://github.com/IBUNHABIBU/GRID-FRAMEWORK/issues">Request Feature</a>
   </p>
 </p>
-
+<br/>
 ![screenshot](https://github.com/IBUNHABIBU/GRID-FRAMEWORK/blob/gridframework/images/gridhome.PNG)
 ![screenshot](https://github.com/IBUNHABIBU/GRID-FRAMEWORK/blob/gridframework/images/gridbody.PNG)
 ![screenshot](https://github.com/IBUNHABIBU/GRID-FRAMEWORK/blob/gridframework/images/bodymobile.jpg)
