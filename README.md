@@ -11,7 +11,7 @@
   </a>
 
   <h2 align="center"> GRID FRAMEWORK</h2>
-  <h3 align="center"> The project to design custom made grid based framework.</h3>
+  <h3 align="center"> The project to design custom made grid-based framework using CSS Grid</h3>
 
   <p align="center">
     <a href="https://github.com/IBUNHABIBU/GRID-FRAMEWORK/issues">Report Bug</a>
