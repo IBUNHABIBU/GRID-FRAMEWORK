@@ -20,10 +20,10 @@
 </p>
 <br/>
 
-![screenshot](https://github.com/IBUNHABIBU/GRID-FRAMEWORK/blob/gridframework/images/gridhome.PNG)
-![screenshot](https://github.com/IBUNHABIBU/GRID-FRAMEWORK/blob/gridframework/images/gridbody.PNG)
-![screenshot](https://github.com/IBUNHABIBU/GRID-FRAMEWORK/blob/gridframework/images/bodymobile.jpg)
-![screenshot](https://github.com/IBUNHABIBU/GRID-FRAMEWORK/blob/gridframework/images/frontmobile.jpg)
+![screenshot](https://github.com/IBUNHABIBU/GRID-FRAMEWORK/blob/master/images/gridhome.PNG)
+![screenshot](https://github.com/IBUNHABIBU/GRID-FRAMEWORK/blob/master/images/gridbody.PNG)
+![screenshot](https://github.com/IBUNHABIBU/GRID-FRAMEWORK/blob/master/images/bodymobile.jpg)
+![screenshot](https://github.com/IBUNHABIBU/GRID-FRAMEWORK/blob/master/images/frontmobile.jpg)
 
 ## Built with
 * Sass
