@@ -68,11 +68,12 @@ I used to clone the
 
 ## your support 
 Give a :star: if you liked this project 
-## Acknowledgments
-Credits goes to
 
-* My mentor for technical assistance.
-* All Microverse TSEs for their feedback that make me to improve technically.
+## Acknowledgments
+Credits go to
+- My mentor Tunde Oratade for technical assistance.
+- All Microverse TSEs for their feedback that makes me improve technically.
+
 ## 📝 License
 This project is [MIT](LICENCE) licensed. 
 
